@@ -1,0 +1,22 @@
+{
+  "name": "univer-0.16.0-preset",
+  "version": "0.1.0",
+  "private": true,
+  "type": "module",
+  "description": "Univer 0.16.0 Preset 모드 API 예제 및 가이드",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview",
+    "lint": "eslint src/"
+  },
+  "dependencies": {
+    "@univerjs/preset-sheets-core": "0.16.0",
+    "@univerjs/presets": "0.16.0"
+  },
+  "devDependencies": {
+    "vite": "^6.0.0",
+    "eslint": "^9.0.0",
+    "@eslint/js": "^9.0.0"
+  }
+}
